@@ -1,5 +1,5 @@
 # Employee Manager Application
 
-##Front-end: Angular
+## Front-end: Angular
 
-##Back-end: Spring Boot
+## Back-end: Spring Boot
