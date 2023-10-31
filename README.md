@@ -104,10 +104,3 @@ We welcome contributions to the RH Manager Application. To contribute, follow th
 
 5. Create a pull request to the main repository's `main` branch.
 
-## 7. License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Thank you for using the RH Manager Application! If you have any questions or need assistance, please don't hesitate to reach out to us.
