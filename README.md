@@ -78,13 +78,9 @@ Before you begin, ensure you have met the following requirements:
 
 ## 5. Configuration
 
-- **Database Configuration**: Update the database connection details in the `application.properties` file located in the backend project.
+- **Database Configuration**: Update the database connection details in the file located in the backend project.
 
-- **Authentication**: Configure user roles and permissions in the `SecurityConfig.java` file in the backend project.
+- **Authentication**: Configure user roles and permissions in the file in the backend project.
 
-   ```bash
-   git push origin feature/your-feature-name
-   ```
 
-5. Create a pull request to the main repository's `main` branch.
 
