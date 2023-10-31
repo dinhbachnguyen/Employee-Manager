@@ -82,22 +82,6 @@ Before you begin, ensure you have met the following requirements:
 
 - **Authentication**: Configure user roles and permissions in the `SecurityConfig.java` file in the backend project.
 
-## 6. Contributing
-
-We welcome contributions to the RH Manager Application. To contribute, follow these steps:
-
-1. Fork the repository.
-
-2. Create a new branch for your feature or bug fix:
-
-   ```bash
-   git checkout -b feature/your-feature-name
-   ```
-
-3. Make your changes and commit them with clear messages.
-
-4. Push your changes to your fork:
-
    ```bash
    git push origin feature/your-feature-name
    ```
