@@ -49,23 +49,17 @@ Before you begin, ensure you have met the following requirements:
    cd frontend
    npm install
    ```
-
-3. **Backend Setup**:
-
-   ```bash
-   cd backend
-   mvn install
-   ```
-
+   
 ## 4. Usage
 
 1. **Run the Backend**:
 
    ```bash
    cd backend
-   mvn spring-boot:run
+   code .
    ```
-
+   Download Spring Boot Extension for your editor then run the backend.
+   
 2. **Run the Frontend**:
 
    ```bash
