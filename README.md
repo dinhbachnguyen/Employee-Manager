@@ -1,4 +1,4 @@
-# RH Manager Application
+# Employee Manager Application
 
 ## Table of Contents
 
@@ -9,12 +9,11 @@
    - [Installation](#installation)
 4. [Usage](#usage)
 5. [Configuration](#configuration)
-6. [Contributing](#contributing)
-7. [License](#license)
+
 
 ## 1. Introduction
 
-Welcome to the RH Manager Application, a Human Resources management system built using Angular for the frontend and Spring Boot for the backend. This application is designed to streamline and simplify HR-related tasks such as employee management, leave requests, and more.
+Welcome to the Employee Manager Application, a Human Resources management system built using Angular for the frontend and Spring Boot for the backend. This application is designed to streamline and simplify HR-related tasks such as employee management, leave requests, and more.
 
 ## 2. Features
 
@@ -40,8 +39,8 @@ Before you begin, ensure you have met the following requirements:
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/yourusername/rh-manager.git
-   cd rh-manager
+   git clone https://github.com/dinhbachnguyen/Employee-Manager.git
+   cd Employee-Manager
    ```
 
 2. **Frontend Setup**:
@@ -74,13 +73,11 @@ Before you begin, ensure you have met the following requirements:
    ng serve
    ```
 
-3. Open your web browser and go to `http://localhost:4200` to access the RH Manager Application.
+3. Open your web browser and go to `http://localhost:4200` to access the Employee Manager Application.
 
 ## 5. Configuration
 
-- **Database Configuration**: Update the database connection details in the file located in the backend project.
-
-- **Authentication**: Configure user roles and permissions in the file in the backend project.
+- **Database Configuration**: Update the database connection details in the '\back-end\src\main\resources\application.properties"' file located in the backend project.
 
 
 
