@@ -1,1 +1,5 @@
-*.{typescript,java,js,html,xml} linguist-detectable=true
+*.typescript linguist-detectable=true
+*.java linguist-detectable=false
+*.js linguist-detectable=false
+*.html linguist-detectable=true
+*.xml linguist-detectable=false
